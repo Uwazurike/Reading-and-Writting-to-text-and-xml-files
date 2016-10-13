@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading from text files project\Reading from text files project\bin\Debug\Reading from text files project.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading from text files project\Reading from text files project\obj\Debug\Reading from text files project.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading from text files project\Reading from text files project\bin\Debug\Reading from text files project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading from text files project\Reading from text files project\bin\Debug\Reading from text files project.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading from text files project\Reading from text files project\obj\Debug\Reading from text files project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading from text files project\Reading from text files project\obj\Debug\Reading from text files project.pdb

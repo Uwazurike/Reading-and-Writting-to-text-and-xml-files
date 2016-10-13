@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading From Xml Project\Reading From Xml Project\bin\Debug\Reading From Xml Project.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading From Xml Project\Reading From Xml Project\bin\Debug\Reading From Xml Project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading From Xml Project\Reading From Xml Project\bin\Debug\Reading From Xml Project.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading From Xml Project\Reading From Xml Project\obj\Debug\Reading From Xml Project.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading From Xml Project\Reading From Xml Project\obj\Debug\Reading From Xml Project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Reading From Xml Project\Reading From Xml Project\obj\Debug\Reading From Xml Project.pdb
